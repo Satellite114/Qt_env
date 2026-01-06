@@ -1,0 +1,17 @@
+# Build directory
+build/
+
+# Qt SDK (large, download locally)
+qt/
+
+# Logs
+*.log
+aqtinstall.log
+
+# VS Code
+.vscode/settings.json
+.vscode/launch.json
+
+# OS
+.DS_Store
+Thumbs.db
